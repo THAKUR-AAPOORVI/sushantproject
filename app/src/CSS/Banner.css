@@ -71,7 +71,7 @@
 
 .pill-text {
   display: flex;
-  padding: 10px 45px 5px 39px;
+  padding: 12px 45px 5px 39px;
   /* align-content: center; */
   /* flex-wrap: wrap; */
   justify-content: space-between;
@@ -969,15 +969,7 @@ input[type="checkbox"]::before {
     height: 70px;
     padding: 0px 48px;
   } */
-  */ .pill-text {
-    display: flex;
-    padding: 13px 20px 12px 21px;
-    /* align-content: center; */
-    /* flex-wrap: wrap; */
-    justify-content: space-between;
-    align-items: center;
-    /* padding-top: 10px; */
-  }
+  
   .filterboc {
     margin-left: 11%;
     height: 480px;

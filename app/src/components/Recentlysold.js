@@ -58,7 +58,7 @@ const Recentlysold = ({
                     <span>
                       <img src="../asset/wheel (2).png"></img>{" "}
                     </span>
-                    <span className="lhd" style={{ marginLeft: "21px" }}>
+                    <span className="lhd">
                       <h5>{driveMode}</h5>
                     </span>
                   </div>
@@ -69,7 +69,7 @@ const Recentlysold = ({
                   <span>
                     <img src="../asset/icon miles.png"></img>{" "}
                   </span>
-                  <span className="speeds" style={{ marginLeft: "21px" }}>
+                  <span className="speeds" >
                     <h5>{numberOfMiles} Miles</h5>
                   </span>
                 </div>
