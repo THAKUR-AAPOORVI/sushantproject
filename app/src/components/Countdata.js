@@ -5,9 +5,9 @@ import Image from "next/image";
 const Countdata = ({ title, count }) => {
   return (
     <>
-      <div className="container ml-16 mb-3 mt-3">
-        <div className="flex items-center">
-          <h4 className="text-black text-[32px] mr-5">
+      <div className="container mb-3 mt-3">
+        <div className="flex items-center ml-16">
+          <h4 className="text-black text-[32px]  mr-5">
             {" "}
             {title} ({count}){" "}
           </h4>
